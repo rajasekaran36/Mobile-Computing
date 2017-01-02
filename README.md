@@ -14,5 +14,9 @@ https://goo.gl/6mD07W
         <td>Characteristics of Mobile Computing</td>
         <td>https://goo.gl/nrrVzo</td>
   </tr> 
+    <tr>
+        <td>Structure of Mobile Application</td>
+        <td>https://goo.gl/LPmcXl</td>
+  </tr> 
 </table>
 
