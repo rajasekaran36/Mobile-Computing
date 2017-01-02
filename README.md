@@ -1,5 +1,8 @@
 # Mobile-Computing
 
+# Syllabus
+https://goo.gl/6mD07W
+
 # Unit 1
 
 <table>
