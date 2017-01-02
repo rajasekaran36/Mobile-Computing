@@ -1,8 +1,15 @@
 # Mobile-Computing
-# Slides
-Unit 1
-<a href="https://goo.gl/nrrVzo">Characteristics of Mobile Computing"</a>
-1 Mobile Computing 
-https://goo.gl/dWI6fS
-2 Characteristics of Mobile Computing 
-https://goo.gl/nrrVzo
+
+# Unit 1
+
+<table>
+  <tr>
+        <td>Mobile Computing</td> 
+        <td>https://goo.gl/dWI6fS</td>
+  </tr>
+  <tr>
+        <td>Characteristics of Mobile Computing</td>
+        <td>https://goo.gl/nrrVzo</td>
+  </tr> 
+</table>
+
