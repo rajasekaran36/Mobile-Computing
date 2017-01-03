@@ -26,6 +26,10 @@ https://goo.gl/6mD07W
         <td>Wireless  MAC Protocol  Issues</td>
         <td>https://goo.gl/bwEVT8</td>
   </tr> 
+  <tr>
+        <td>Fixed Assignment Schemes</td>
+        <td>https://goo.gl/fD3cY2</td>
+  </tr> 
   
 </table>
 
