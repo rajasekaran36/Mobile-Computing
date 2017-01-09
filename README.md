@@ -3,6 +3,9 @@
 # Syllabus
 https://goo.gl/6mD07W
 
+# Mobile App Lab (Syllabus)
+https://goo.gl/GNnxcO
+
 # Unit 1
 
 <table>
