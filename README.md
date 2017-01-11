@@ -40,6 +40,10 @@ https://goo.gl/forms/GthpO5brebhobF5U2
         <td>Fixed Assignment Schemes</td>
         <td>https://goo.gl/fD3cY2</td>
   </tr> 
+  <tr>
+        <td>Random Assignment Schemes</td>
+        <td>https://goo.gl/thXheH</td>
+  </tr> 
   
 </table>
 
