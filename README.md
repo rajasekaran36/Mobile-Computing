@@ -44,6 +44,10 @@ https://goo.gl/forms/GthpO5brebhobF5U2
         <td>Random Assignment Schemes</td>
         <td>https://goo.gl/thXheH</td>
   </tr> 
+   <tr>
+        <td>Reservation Based Scheme</td>
+        <td>https://goo.gl/yUE0G1</td>
+  </tr> 
   
 </table>
 
