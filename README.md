@@ -8,8 +8,9 @@ https://goo.gl/GNnxcO
 
 # Mobile App Lab (Project Share Form Link)
 https://goo.gl/forms/GthpO5brebhobF5U2
-# Unit 1
 
+# Unit 1
+<p>
 <table>
   <tr>
         <td>Mobile Computing</td> 
@@ -44,20 +45,27 @@ https://goo.gl/forms/GthpO5brebhobF5U2
         <td>Random Assignment Schemes</td>
         <td>https://goo.gl/thXheH</td>
   </tr> 
-   <tr>
+  <tr>
         <td>Reservation Based Scheme</td>
         <td>https://goo.gl/yUE0G1</td>
   </tr> 
+  <tr>
+        <td><strong>All PPT Unit 1</strong></td>
+        <td>https://goo.gl/qvRaDE</td>
+  </tr> 
   
-</table><br>
-<a href="https://goo.gl/qvRaDE">Unit 1 ALL PPT in PDF</a><br>
-<!--
-CoCubes -- https://docs.google.com/spreadsheets/d/1VyexYoUmlp4kLSAFUKdrGxqsF-SVAtNWsdqNtCnwCro/edit?usp=sharing
--->
+</table>
+<p>
+<br>
+
 # UNIT 2
 <table>
    <tr>
         <td>Mobile IP and It's Terminologies</td>
         <td>https://goo.gl/ejhlUF</td>
-  </tr> 
+   </tr> 
+   <tr>
+        <td>Features of mobile IP</td>
+        <td>https://goo.gl/6xVJUu</td>
+   </tr> 
 </table>
